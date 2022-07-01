@@ -1,24 +1,27 @@
-[![](https://github.com/adarunova/adarunova/blob/main/images/header.png)](https://github.com/adarunova/adarunova/blob/main/images/header.png)
+[![](https://github.com/fodof91/fodof91/blob/main/headF.png)](https://github.com/fodof91/fodof91/blob/main/headF.png)
 
-# 👋 Hi there!
+# Hi there!
 
 My name is Fedor Firsov. I'm a student at the National Research University Higher School of Economics, Faculty of Computer Science, majoring in Software Engineering.
 
-## :mortar_board: Education
+## <img src="https://github.com/fodof91/fodof91/blob/main/education.png" width="30" height="30"/> Education
 
 - **Secondary general education**<br />
-<sup>:date: *September 2018 – July 2020* :globe_with_meridians: *Moscow, Russia* </sup><br />
-HSE Lyceum, Mathematics and Informatics
-
+<sup>:date: *2018 – 2021* :globe_with_meridians: *Moscow, Russia* </sup><br />
+179 Mathematical school, Math and IT class
 
 - **Bachelor's degree**<br />
-<sup>:date: *September 2020 – Present* :globe_with_meridians: *Moscow, Russia* </sup><br />
+<sup>:date: *2021 – Present* :globe_with_meridians: *Moscow, Russia* </sup><br />
 Software Engeneering, FCS, HSE
 
+## <img src="https://github.com/fodof91/fodof91/blob/main/gear%20(1).png" width="35" height="35"/> Work experience
+-  **Internship**<br />
+<sup>:date: *January 2022 - July 2022* :globe_with_meridians: *Moscow, Russia* </sup><br />
+<img src="https://github.com/fodof91/fodof91/blob/main/5t4TtZ4A.png" title="Yandex" alt="Yandex" width="60" height="18"/> : Development of the [Userver framework](https://github.com/userver-framework) 
 
-## 💼 Technical skills
+## <img src="https://github.com/fodof91/fodof91/blob/main/settings.png" width="30" height="30"/> Technical skills
 
-### Programming languages :computer:
+### Programming languages 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -29,38 +32,30 @@ Software Engeneering, FCS, HSE
 </div>
 
 
-### Data analysis :bar_chart:
+### Data analysis 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/fodof91/fodof91/blob/main/numpy_logo_icon_168071.png" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/29043415?s=200&v=4" title="CatBoost" alt="CatBoost" width="40" height="40"/>&nbsp; 
 </div>
 
-### Tools :gear:
+### Tools
 
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&color=3C5186)
-![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&color=3C5186)
-![](https://img.shields.io/badge/LaTeX-informational?style=flat&logo=latex&color=3C5186)
-
-### Platforms :gear:
-
-![](https://img.shields.io/badge/Android-informational?style=flat&logo=android&color=211F4D)
-![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&color=211F4D)
-![](https://img.shields.io/badge/Xamarin-informational?style=flat&logo=xamarin&color=211F4D)
-![](https://img.shields.io/badge/.NET-informational?style=flat&logo=dotnet&color=211F4D)
-![](https://img.shields.io/badge/Microsoft%20Azure-informational?style=flat&logo=microsoftazure&color=211F4D)
+<div>
+  <img src="https://github.com/fodof91/fodof91/blob/main/github-logo_icon-icons.com_73546.png" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jet Brains development environments" alt="Jet Brains development environments" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt for python" alt="Qt for python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/userver-framework/userver/blob/develop/scripts/docs/logo.svg" title="Userver framework" alt="Userver framework" width="40" height="40"/>
+</div>
 
 
-## 🤝 Contacts
+
+## <img src="https://github.com/fodof91/fodof91/blob/main/contact.png" width="30" height="30"/> Contacts
 
 - **E-mail** <br />
-adarunova@edu.hse.ru <br />
-anastasia.a2002@gmail.com
+fodof91@gmail.com
 
-- **Telegram:** [@larsic](https://t.me/larsic)
-
-- **VK:** [@asyairita](https://vk.com/asyairita)
-
-
-## For more information: [CV](https://github.com/adarunova/adarunova/blob/main/CV.pdf)
+- **Telegram:** [@fodof91](https://t.me/fodof91)

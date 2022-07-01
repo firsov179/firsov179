@@ -55,7 +55,6 @@ Software Engeneering, FCS, HSE
 
 ## <img src="https://github.com/fodof91/fodof91/blob/main/contact.png" width="30" height="30"/> Contacts
 
-- **E-mail** <br />
-fodof91@gmail.com
+- **E-mail:** fodof91@gmail.com
 
 - **Telegram:** [@fodof91](https://t.me/fodof91)

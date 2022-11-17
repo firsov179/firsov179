@@ -35,6 +35,7 @@ Software Engeneering, FCS, HSE
 ### Data analysis 
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/fodof91/fodof91/blob/main/numpy_logo_icon_168071.png" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/29043415?s=200&v=4" title="CatBoost" alt="CatBoost" width="40" height="40"/>&nbsp; 

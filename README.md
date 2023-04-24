@@ -31,6 +31,8 @@ Software Engeneering, FCS, HSE
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 </div>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fodof91&langs_count=6,jupyter%20notebook&role=owner,collaborator&theme=radical" alt="Fodof91's Language stats" />
 
 ### Data analysis 
 

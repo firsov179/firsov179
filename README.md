@@ -18,6 +18,9 @@ Software Engeneering, FCS, HSE
 -  **Internship**<br />
 <sup>:date: *January 2022 - July 2022* :globe_with_meridians: *Moscow, Russia* </sup><br />
 <img src="https://github.com/fodof91/fodof91/blob/main/5t4TtZ4A.png" title="Yandex" alt="Yandex" width="60" height="18"/> : Development of the [Userver framework](https://github.com/userver-framework) 
+-  **Internship**<br />
+<sup>:date: *January 2023 - May 2023* :globe_with_meridians: *Moscow, Russia* </sup><br />
+<img src="https://github.com/fodof91/fodof91/blob/main/5t4TtZ4A.png" title="Yandex" alt="Yandex" width="60" height="18"/> : Alice's backend development 
 
 ## <img src="https://github.com/fodof91/fodof91/blob/main/settings.png" width="30" height="30"/> Technical skills
 
@@ -28,6 +31,7 @@ Software Engeneering, FCS, HSE
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 </div>
 

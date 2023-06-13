@@ -64,4 +64,4 @@ Software Engeneering, FCS, HSE
 
 - **E-mail:** fodof91@gmail.com
 
-- **Telegram:** [@fodof91](https://t.me/fodof91)
+- **Telegram:** [@fodof179](https://t.me/fodof179)

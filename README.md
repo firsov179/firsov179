@@ -36,7 +36,7 @@ Software Engeneering, FCS, HSE
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=firsov179&langs_count=6,jupyter%20notebook&role=owner,collaborator&theme=radical" alt="Fodof91's Language stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=firsov179&langs_count=6,jupyter%20notebook&role=owner,collaborator&theme=radical" alt="firsov179's Language stats" />
 
 ### Data analysis 
 
